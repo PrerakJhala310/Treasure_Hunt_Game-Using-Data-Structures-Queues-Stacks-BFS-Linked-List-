@@ -1,4 +1,4 @@
-#include "doodle.h"             // common header with all function names
+#include "Treasure.h"             // common header with all function names
 
 // # BST node (same as Exp 8) - one node stores one player's score
 struct Node

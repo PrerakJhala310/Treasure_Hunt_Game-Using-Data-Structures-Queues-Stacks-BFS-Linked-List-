@@ -1,4 +1,4 @@
-#include "doodle.h"             // common header with all function names
+#include "Treasure.h"             // common header with all function names
 
 // # Queue (same as Exp 9) - used by BFS to visit cells in the order they are found (FIFO)
 int queue[MAX];                 // array that stores the queue

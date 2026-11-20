@@ -1,4 +1,4 @@
-#include "doodle.h"             // common header with all function names
+#include "Treasure.h"             // common header with all function names
 
 // # Stack (same as Exp 4) - used to turn the hint path around (LIFO)
 int stk[MAX];                   // array that stores the stack

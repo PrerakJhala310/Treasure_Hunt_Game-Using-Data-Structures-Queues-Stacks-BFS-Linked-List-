@@ -1,4 +1,4 @@
-#include "doodle.h"             // common header with all function names
+#include "Treasure.h"             // common header with all function names
 
 #define ROWS 10                 // the map has 10 rows
 #define COLS 10                 // the map has 10 columns
